@@ -18,17 +18,6 @@ A modern React-based product management dashboard demonstrating advanced fronten
 - **Mock API** with simulated network delays
 - **Clean Architecture** with modular code structure
 
-## 📸 Screenshots
-
-### Home Page
-Dashboard with product statistics and featured items
-
-### Products Page
-Full product catalog with category filtering
-
-### Product Detail
-Individual product view with complete information
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18.x
